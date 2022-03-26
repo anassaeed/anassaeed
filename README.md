@@ -1,6 +1,6 @@
-- 👋 Hi, I’m a PhD acdemic person
+- 👋 Hi, I’m a PhD academic in medicine, dentistry, and molecular biology
 - 👀 I’m interested in academic, research, teaching, and supervising university students
-- 🌱 I’m currently doing research activities, tutoring, and consultation
+- 🌱 I’m currently doing research activities, tutoring, and consultation (Gentics, Bioinformatics, Cancer)
 - 💞️ I’m looking to collaborate on supervising larger students group
 - 📫 How to reach me via email: anas.nhsuk@yahoo.com or phone 00447503572732
 
